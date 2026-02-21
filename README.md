@@ -19,8 +19,8 @@ Con una trayectoria centrada en la revisión de relaciones contractuales y preve
 
 ### 🛢️ [Optimización de Inversiones - Sector Petrolero](https://github.com/adolfoanguiano/nuevos_pozos_petroleros)
 * **Objetivo:** Identificar las mejores regiones para la apertura de 200 pozos petroleros maximizando el beneficio.
-* **Tecnologías:** Python, Scikit-learn, Pandas, Bootstrapping.
-* **Resultado:** Desarrollé un modelo de ML que predijo reservas y calculó probabilidades de pérdida por región.
+* **Tecnologías:** Python, Machine Learning.
+* **Resultado:** Desarrollé un modelo de ML y se obtuvo la mejor región con mayor beneficio y menor riesgo para invertir.
 
 ### 🏦 [Predicción del éxito comercial - Sector Comercial](https://github.com/adolfoanguiano/juegos_exitosos)
 * **Objetivo:** Predecir el éxito comercial de un juego, con la finalidad de planear campañas publicitarias.
